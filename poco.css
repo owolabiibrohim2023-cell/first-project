@@ -1335,14 +1335,7 @@ margin-right: 130px;
     .header-middle {
         flex-direction: column;
         height: auto;
-        padding: 10px;
-        margin-top: 60px;
-        gap: 10px;
-    }
-
-    input[type="text"] {
-        width: 100%;
-        max-width: 300px;
+        padding: use
         padding: 10px;
     }
 
@@ -2422,12 +2415,13 @@ border-radius:10px ;
   .header3{
     width:15rem;
     position:absolute;
-    top:1rem;
+    
     border-radius:15px;
     box-sizing: border-box;
     box-shadow: 0px 10px 25px  grey;
     display:none;
     position:fixed;
+      z-index:1000;
   }
   .header3.active{
     display:flex;
@@ -2436,7 +2430,7 @@ border-radius:10px ;
         padding: 40px;
         gap: 90px;
         width:23.5rem;
-        
+        z-index:999;
         font-size: 25px;
     }
     .menu-toggle.open span:nth-child(1) {
