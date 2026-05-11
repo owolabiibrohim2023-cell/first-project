@@ -2415,7 +2415,7 @@ border-radius:10px ;
   .header3{
     width:15rem;
     position:absolute;
-    margin-top:3rem;
+    margin-top:1rem;
     border-radius:15px;
     box-sizing: border-box;
     box-shadow: 0px 10px 25px  grey;
@@ -2504,7 +2504,7 @@ color:white;
 
 /* ============================================================
    EXTRA SMALL SCREENS (320px and below)
-   ============================================================ */
+   ===============I'm============================================ */
 
 @media (max-width: 320px) {
    
