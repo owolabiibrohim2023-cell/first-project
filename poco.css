@@ -2351,6 +2351,7 @@ margin-right: 130px;
   display: none;
   flex-direction: column;
   cursor: pointer;
+    
 }
 
 .menu-toggle span {
@@ -2386,6 +2387,7 @@ margin-right: 130px;
 
   .menu-toggle {
     display: flex;
+      margin-left:4rem;
 
   }
   .menu-toggle span{
@@ -2428,7 +2430,7 @@ border-radius:10px ;
    .header-top {
         padding: 40px;
         gap: 90px;
-        width:21.5rem;
+        width:22.5rem;
         z-index:999;
         font-size: 25px;
     }
