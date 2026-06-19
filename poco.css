@@ -2387,7 +2387,7 @@ margin-right: 130px;
 
   .menu-toggle {
     display: flex;
-      margin-left:4rem;
+      margin-left:-4rem;
 
   }
   .menu-toggle span{
