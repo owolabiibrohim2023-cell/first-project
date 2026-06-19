@@ -217,10 +217,9 @@ input[type=text]{
     padding: 0;
     height: 120vh;
     background-color:rgb(148, 85, 41); 
-    /* background-size: cover; */
-    /* background-position: center; */
-    transition: s ease;
-    /* animation:mymove 20s infinite; */
+    
+    transition: ease;
+    
     background-image: url('h6_img1.png');
     background-repeat: no-repeat;
     background-position: 188vh 0vh;
@@ -2429,7 +2428,7 @@ border-radius:10px ;
    .header-top {
         padding: 40px;
         gap: 90px;
-        width:23.5rem;
+        width:21.5rem;
         z-index:999;
         font-size: 25px;
     }
