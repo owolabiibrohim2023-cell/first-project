@@ -2417,13 +2417,13 @@ border-radius:10px ;
   .header3{
     width:100%;
     position:absolute;
-      border-radius:10px;
+      
     box-sizing: border-box;
     box-shadow: 0px 10px 25px  grey;
     display:none;
     position:fixed;
       z-index:1000;
-      text-align: center;
+
       margin-top:3rem;
   }
   .header3.active{
