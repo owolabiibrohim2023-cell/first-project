@@ -2388,7 +2388,7 @@ margin-right: 130px;
 
   .menu-toggle {
     display: flex;
-      margin-left:2rem;
+      margin-left:3rem;
 
   }
   .menu-toggle span{
@@ -2423,7 +2423,7 @@ border-radius:10px ;
     display:none;
     position:fixed;
       z-index:1000;
-  height:15vh;
+  height:150vh;
       margin-top:3rem;
   }
   .header3.active{
