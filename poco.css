@@ -1371,6 +1371,7 @@ margin-right: 130px;
         gap: 10px;
         margin-left: 0;
         justify-content: center;
+        text-align: center;
     }
 
     .link p a {
