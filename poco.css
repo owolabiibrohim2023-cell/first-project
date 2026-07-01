@@ -1366,7 +1366,7 @@ margin-right: 130px;
     }
 
     .link {
-        flex-direction: row;
+        flex-direction: column;
         flex-wrap: wrap;
         gap: 10px;
         margin-left: 0;
