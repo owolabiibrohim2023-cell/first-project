@@ -2422,8 +2422,7 @@ border-radius:10px ;
     position:fixed;
       z-index:1000;
       text-align: center;
-      margin:auto;
-      margin-top:2rem;
+      margin-top:3rem;
   }
   .header3.active{
     display:flex;
