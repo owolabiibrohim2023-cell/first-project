@@ -1721,7 +1721,7 @@ margin-right: 130px;
     
     
     
-}
+} how
 
 /* ============================================================
    SMALL SCREENS (480px and below)
@@ -2416,13 +2416,14 @@ border-radius:10px ;
   .header3{
     width:100%;
     position:absolute;
-    border-radius:15px;
     box-sizing: border-box;
     box-shadow: 0px 10px 25px  grey;
     display:none;
     position:fixed;
       z-index:1000;
       text-align: center;
+      margin:auto;
+      margin-top:2rem;
   }
   .header3.active{
     display:flex;
