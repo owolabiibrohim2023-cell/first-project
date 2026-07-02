@@ -1316,7 +1316,6 @@ margin-right: 130px;
     .header-top {
         height: auto;
         padding: 10px;
-        gap: 10px;
         background-color: rgba(167, 167, 212, 0.558);
     }
    .svg{
@@ -2433,7 +2432,7 @@ border-radius:10px ;
   }
    .header-top {
         padding: 40px;
-        gap: 90px;
+        gap: 2rem;
         width:100%;
         z-index:999;
         font-size: 25px;
